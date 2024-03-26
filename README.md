@@ -6,7 +6,7 @@
 - Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
 - When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
 
-##  Functionality
+## Functionality
 -Weapon
 AIMBOT
 FOV
