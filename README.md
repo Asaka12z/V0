@@ -33,10 +33,9 @@ DirectX 9.0c injectable DLL menu source. The original creator is obscure, but it
 
 ## Media
 
-![image](![image](https://github.com/Asaka12z/V0/assets/165057020/67a7229b-dbc0-430e-aa9f-6eb1eed31789)
-)
-![image](![image](https://github.com/Asaka12z/V0/assets/165057020/e503123d-884a-4369-a16e-564ff98f39bf)
-)
+![image](https://github.com/Asaka12z/V0/assets/165057020/67a7229b-dbc0-430e-aa9f-6eb1eed31789)
+![image](https://github.com/Asaka12z/V0/assets/165057020/e503123d-884a-4369-a16e-564ff98f39bf)
+
 
 
 
